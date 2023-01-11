@@ -18,7 +18,11 @@
 
     <!-- property injection -->
     <bean id="myCricketCoach" class="demo1.CricketCoach">
+        <!-- service ref -->
         <property name="fortuneService" ref="myFortuneService" />
+        <!-- inect literal values -->
+        <property name="emailAddress" value="email@example.com" />
+        <property name="team" value="Team 4" />
     </bean>
 
 </beans>

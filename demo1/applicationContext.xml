@@ -7,21 +7,18 @@
     http://www.springframework.org/schema/context
     http://www.springframework.org/schema/context/spring-context.xsd">
 
-
-    <!-- Define your beans here -->
-
-    <!-- define the dependency -->
-    <bean id="myFortune" class="demo1.HappyFortuneService">
+    <bean id="myFortuneService" class="demo1.HappyFortuneService">
     </bean>
+
+    <!-- constructor injection -->
     <bean id="myCoach"
           class="demo1.TrackCoach">
-        <constructor-arg ref="myFortune"/>
+        <constructor-arg ref="myFortuneService"/>
     </bean>
 
-    <!--
-    <bean id="myCoach"
-        class="com.luv2code.springdemo.BaseballCoach">
+    <!-- property injection -->
+    <bean id="myCricketCoach" class="demo1.CricketCoach">
+        <property name="fortuneService" ref="myFortuneService" />
     </bean>
-    -->
 
 </beans>

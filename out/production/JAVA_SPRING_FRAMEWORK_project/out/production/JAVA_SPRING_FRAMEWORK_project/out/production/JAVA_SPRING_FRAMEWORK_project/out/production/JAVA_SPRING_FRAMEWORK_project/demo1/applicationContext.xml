@@ -7,6 +7,9 @@
     http://www.springframework.org/schema/context
     http://www.springframework.org/schema/context/spring-context.xsd">
 
+    <!-- load the properties file -->
+    <context:property-placeholder location="demo1/sport.props" />
+
     <bean id="myFortuneService" class="demo1.HappyFortuneService">
     </bean>
 
@@ -18,7 +21,11 @@
 
     <!-- property injection -->
     <bean id="myCricketCoach" class="demo1.CricketCoach">
+        <!-- service ref -->
         <property name="fortuneService" ref="myFortuneService" />
+        <!-- inect literal values -->
+        <property name="emailAddress" value="${props.email}" />
+        <property name="team" value="${props.team}" />
     </bean>
 
 </beans>

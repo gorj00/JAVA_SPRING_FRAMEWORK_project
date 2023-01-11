@@ -1,6 +1,7 @@
 package annotations_spring_configuration;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
 
 @Component
@@ -8,6 +9,7 @@ public class TennisCoach implements Coach {
 
     // FIELD INJECTION with reflection
     @Autowired
+    @Qualifier("happyFortuneService") // multiple FortuneService services, must id the right one
     private FortuneService fortuneService;
 
     // CONSTRUCTOR INJECTION

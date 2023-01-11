@@ -7,14 +7,11 @@
     http://www.springframework.org/schema/context
     http://www.springframework.org/schema/context/spring-context.xsd">
 
-    <bean id="myFortuneService" class="demo1.HappyFortuneService">
+    <bean id="myFortuneService" class="xml_spring_configuration.HappyFortuneService">
     </bean>
 
     <bean id="myCoach"
-          class="demo1.TrackCoach"
-          init-method="initStartup"
-          destroy-method="destroyCleanup"
-    >
+          class="xml_spring_configuration.TrackCoach" scope="prototype">
         <constructor-arg ref="myFortuneService"/>
     </bean>
 

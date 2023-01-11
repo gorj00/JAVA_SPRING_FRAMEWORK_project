@@ -1,4 +1,4 @@
-package demo1;
+package xml_spring_configuration;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
@@ -6,7 +6,7 @@ public class BeanLifecycleDemoApp {
     public static void main(String[] args) {
         // load the spring configuration file
         ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext(
-                "demo1/beanLifecycle-applicationContext.xml"
+                "xml_spring_configuration/beanLifecycle-applicationContext.xml"
         );
 
         // retrieve bean from spring container

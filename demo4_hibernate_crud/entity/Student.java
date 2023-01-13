@@ -1,4 +1,4 @@
-package demo4_hibernate.entity;
+package demo4_hibernate_crud.entity;
 
 import javax.persistence.*;
 

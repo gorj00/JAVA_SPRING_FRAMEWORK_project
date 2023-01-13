@@ -1,4 +1,4 @@
-package demo4_hibernate;
+package demo4_hibernate_crud;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

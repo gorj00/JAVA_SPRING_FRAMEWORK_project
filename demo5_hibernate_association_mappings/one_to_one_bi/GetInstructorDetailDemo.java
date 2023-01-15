@@ -1,7 +1,7 @@
-package demo5_hibernate_association_mappings.one_one_to_one_bi;
+package demo5_hibernate_association_mappings.one_to_one_bi;
 
-import demo5_hibernate_association_mappings.one_one_to_one_bi.entity.Instructor;
-import demo5_hibernate_association_mappings.one_one_to_one_bi.entity.InstructorDetail;
+import demo5_hibernate_association_mappings.one_to_one_bi.entity.Instructor;
+import demo5_hibernate_association_mappings.one_to_one_bi.entity.InstructorDetail;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
@@ -10,7 +10,7 @@ public class GetInstructorDetailDemo {
     public static void main(String[] args) {
         // create session factory
         SessionFactory factory = new Configuration()
-                .configure("demo5_hibernate_association_mappings/one_one_to_one_uni/hibernate.cfg.xml")
+                .configure("demo5_hibernate_association_mappings/one_to_one_uni/hibernate.cfg.xml")
                 .addAnnotatedClass(Instructor.class)
                 .addAnnotatedClass(InstructorDetail.class)
                 .buildSessionFactory();
@@ -32,7 +32,10 @@ public class GetInstructorDetailDemo {
             session.getTransaction().commit();
 
             System.out.println("Done!");
+        } catch (Exception ex) {
+            ex.printStackTrace();
         } finally {
+            session.close();
             factory.close();
         }
     }

@@ -1,4 +1,4 @@
-package demo5_hibernate_association_mappings.one_one_to_one_uni;
+package demo5_hibernate_association_mappings.one_to_one_bi;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

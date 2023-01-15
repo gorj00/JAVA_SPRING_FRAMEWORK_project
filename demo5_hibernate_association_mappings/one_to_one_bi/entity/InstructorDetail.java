@@ -1,4 +1,4 @@
-package demo5_hibernate_association_mappings.one_one_to_one_bi.entity;
+package demo5_hibernate_association_mappings.one_to_one_bi.entity;
 
 
 import javax.persistence.*;
@@ -20,7 +20,16 @@ public class InstructorDetail {
 
     // TO ENABLE BI-DIRECTION, ADD THIS FIELD
     // mappedBy refers to property in the other class, it will be directed by JoinColumn annotation
-    @OneToOne(mappedBy = "instructorDetail", cascade = CascadeType.ALL)
+    // @OneToOne(mappedBy = "instructorDetail", cascade = CascadeType.ALL) // CASCADE ALL - deletes all
+    @OneToOne(
+            mappedBy = "instructorDetail",
+            cascade = {
+                    CascadeType.DETACH,
+                    CascadeType.MERGE,
+                    CascadeType.PERSIST,
+                    CascadeType.REFRESH
+            }
+    )
     private Instructor instructor;
 
     public InstructorDetail() {

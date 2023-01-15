@@ -1,8 +1,7 @@
-package demo5_hibernate_association_mappings.one_one_to_one_uni;
+package demo5_hibernate_association_mappings.one_to_one_uni;
 
-import demo4_hibernate_crud.entity.Student;
-import demo5_hibernate_association_mappings.one_one_to_one_uni.entity.Instructor;
-import demo5_hibernate_association_mappings.one_one_to_one_uni.entity.InstructorDetail;
+import demo5_hibernate_association_mappings.one_to_one_uni.entity.Instructor;
+import demo5_hibernate_association_mappings.one_to_one_uni.entity.InstructorDetail;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
@@ -11,7 +10,7 @@ public class CreateDemo {
     public static void main(String[] args) {
         // create session factory
         SessionFactory factory = new Configuration()
-                .configure("demo5_hibernate_association_mappings/one_one_to_one_uni/hibernate.cfg.xml")
+                .configure("demo5_hibernate_association_mappings/one_to_one_uni/hibernate.cfg.xml")
                 .addAnnotatedClass(Instructor.class)
                 .addAnnotatedClass(InstructorDetail.class)
                 .buildSessionFactory();

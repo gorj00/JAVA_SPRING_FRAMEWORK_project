@@ -1,4 +1,4 @@
-package demo5_hibernate_association_mappings.one_one_to_one_uni.entity;
+package demo5_hibernate_association_mappings.one_to_one_uni.entity;
 
 import javax.persistence.*;
 

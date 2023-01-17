@@ -1,4 +1,4 @@
-package demo5_hibernate_association_mappings.one_to_many_uni.entity;
+package demo5_hibernate_association_mappings.many_to_many.entity;
 
 import javax.persistence.*;
 import java.util.ArrayList;

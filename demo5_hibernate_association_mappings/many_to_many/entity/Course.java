@@ -1,4 +1,4 @@
-package demo5_hibernate_association_mappings.one_to_many_uni.entity;
+package demo5_hibernate_association_mappings.many_to_many.entity;
 
 import javax.persistence.*;
 import java.util.ArrayList;
@@ -25,6 +25,16 @@ public class Course {
     @OneToMany(fetch = FetchType.LAZY, cascade = CascadeType.ALL)
     @JoinColumn(name = "course_id")
     private List<Review> reviews;
+
+    @ManyToMany(fetch = FetchType.LAZY, cascade = {
+            CascadeType.PERSIST, CascadeType.MERGE, CascadeType.DETACH, CascadeType.REFRESH
+    })
+    @JoinTable(
+            name = "course_student",
+            joinColumns = @JoinColumn(name = "course_id"),
+            inverseJoinColumns = @JoinColumn(name = "student_id")
+    )
+    private List<Student> students;
 
     public Course() {
     }
@@ -65,12 +75,27 @@ public class Course {
         this.reviews = reviews;
     }
 
+    public List<Student> getStudents() {
+        return students;
+    }
+
+    public void setStudents(List<Student> students) {
+        this.students = students;
+    }
+
     // convenience method
     public void addReview (Review theReview) {
         if (reviews == null) {
             reviews = new ArrayList<>();
         }
         reviews.add(theReview);
+    }
+
+    public void addStudent (Student student) {
+        if (students == null) {
+            students = new ArrayList<>();
+        }
+        students.add(student);
     }
 
     @Override

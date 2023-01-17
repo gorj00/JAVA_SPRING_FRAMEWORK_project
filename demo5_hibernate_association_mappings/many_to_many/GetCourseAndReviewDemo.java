@@ -1,9 +1,9 @@
-package demo5_hibernate_association_mappings.one_to_many_uni;
+package demo5_hibernate_association_mappings.many_to_many;
 
-import demo5_hibernate_association_mappings.one_to_many_uni.entity.Course;
-import demo5_hibernate_association_mappings.one_to_many_uni.entity.Instructor;
-import demo5_hibernate_association_mappings.one_to_many_uni.entity.InstructorDetail;
-import demo5_hibernate_association_mappings.one_to_many_uni.entity.Review;
+import demo5_hibernate_association_mappings.many_to_many.entity.Course;
+import demo5_hibernate_association_mappings.many_to_many.entity.Instructor;
+import demo5_hibernate_association_mappings.many_to_many.entity.InstructorDetail;
+import demo5_hibernate_association_mappings.many_to_many.entity.Review;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;

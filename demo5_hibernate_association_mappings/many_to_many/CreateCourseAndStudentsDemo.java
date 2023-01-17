@@ -1,14 +1,11 @@
 package demo5_hibernate_association_mappings.many_to_many;
 
-import demo5_hibernate_association_mappings.many_to_many.entity.Course;
-import demo5_hibernate_association_mappings.many_to_many.entity.Instructor;
-import demo5_hibernate_association_mappings.many_to_many.entity.InstructorDetail;
-import demo5_hibernate_association_mappings.many_to_many.entity.Review;
+import demo5_hibernate_association_mappings.many_to_many.entity.*;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
 
-public class CreateCourseAndReviewDemo {
+public class CreateCourseAndStudentsDemo {
     public static void main(String[] args) {
         // create session factory
         SessionFactory factory = new Configuration()
@@ -17,6 +14,7 @@ public class CreateCourseAndReviewDemo {
                 .addAnnotatedClass(InstructorDetail.class)
                 .addAnnotatedClass(Course.class)
                 .addAnnotatedClass(Review.class)
+                .addAnnotatedClass(Student.class)
                 .buildSessionFactory();
 
         // create session
@@ -28,15 +26,18 @@ public class CreateCourseAndReviewDemo {
 
             // create a course
             Course tempCourse = new Course("Pacman - How to score milion points");
-
-            // add some reviews
-            tempCourse.addReview(new Review("Rev1"));
-            tempCourse.addReview(new Review("Rev2"));
-            tempCourse.addReview(new Review("Rev3"));
-
-            // save the course and reviews via cascade
-            System.out.println("Saving the course: " + tempCourse);
             session.save(tempCourse);
+
+            Student tempStudent1 = new Student("John", "Doe", "jdoe@example.com");
+            Student tempStudent2 = new Student("Jane", "Hill", "jhil@example.com");
+            Student tempStudent3 = new Student("Diane", "Nerron", "dner@example.com");
+
+            tempCourse.addStudent(tempStudent1);
+            tempCourse.addStudent(tempStudent2);
+            tempCourse.addStudent(tempStudent3);
+            session.save(tempStudent1);
+            session.save(tempStudent2);
+            session.save(tempStudent3);
 
             // commit transaction
             session.getTransaction().commit();

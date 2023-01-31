@@ -4,6 +4,7 @@ import demo7_Spring_REST.springdemo.entity.Customer;
 import demo7_Spring_REST.springdemo.service.CustomerService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -16,15 +17,15 @@ public class CustomerRestController {
     @Autowired
     private CustomerService customerService;
 
-    // add mapping GET /customers
     @GetMapping("/customers")
     public List<Customer> getCustomers() {
         return customerService.getCustomers();
     }
 
-    @GetMapping("/hello2")
-    public String sayHello() {
-        return "Hello world!";
+    @GetMapping("/customers/{customerId}")
+    public Customer getCustomer(@PathVariable int customerId) {
+        Customer theCustomer = customerService.getCustomer(customerId);
+        return theCustomer;
     }
 
 

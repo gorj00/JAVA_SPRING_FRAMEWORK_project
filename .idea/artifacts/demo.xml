@@ -1,5 +1,5 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" name="demo">
+  <artifact type="exploded-war" build-on-make="true" name="demo">
     <output-path>$PROJECT_DIR$/target/spring-rest-demo</output-path>
     <root id="root">
       <element id="directory" name="META-INF">

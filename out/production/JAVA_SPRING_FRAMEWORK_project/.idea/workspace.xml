@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="29102223-b569-4efc-a7e7-83a3eb248211" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/demo1/SpringHelloApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/TrackCoach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/BaseballCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo1/BaseballCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/MyApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo1/MyApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/demo1/BaseballCoach.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/demo1/BaseballCoach.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/demo1/MyApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/demo1/MyApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dev/gorj00/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2K900syJCgftE3vO5l144728CIs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/WORKSPACE/JAVA_SPRING_FRAMEWORK_project/lib/spring-websocket-5.0.2.RELEASE.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;d41d8cd98f00b204e9800998ecf8427e&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="demo1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WORKSPACE\JAVA_SPRING_FRAMEWORK_project\lib" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29102223-b569-4efc-a7e7-83a3eb248211" name="Changes" comment="" />
+      <created>1673371275652</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673371275652</updated>
+      <workItem from="1673371277121" duration="1056000" />
+      <workItem from="1673372369453" duration="194000" />
+      <workItem from="1673372574693" duration="808000" />
+      <workItem from="1673434937852" duration="2519000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

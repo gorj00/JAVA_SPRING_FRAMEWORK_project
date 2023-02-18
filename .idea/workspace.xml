@@ -4,330 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="db6ab046-cd98-4bb6-8468-f8bf6d695aff" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1/BaseballCoach.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1/BeanScopeDemoApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1/Coach.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1/CricketCoach.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1/FortuneService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1/HappyFortuneService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1/MyApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1/SetterDemoApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1/SpringHelloApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1/TrackCoach.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1/applicationContext.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1/beanScope-applicationContext.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1/sport.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-aop-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-aop-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-aop-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-aspects-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-aspects-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-aspects-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-beans-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-beans-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-beans-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-context-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-context-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-context-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-context-indexer-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-context-indexer-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-context-indexer-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-context-support-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-context-support-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-context-support-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-core-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-core-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-core-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-expression-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-expression-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-expression-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-instrument-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-instrument-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-instrument-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-jcl-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-jcl-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-jcl-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-jdbc-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-jdbc-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-jdbc-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-jms-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-jms-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-jms-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-messaging-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-messaging-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-messaging-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-orm-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-orm-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-orm-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-oxm-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-oxm-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-oxm-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-test-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-test-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-test-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-tx-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-tx-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-tx-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-web-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-web-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-web-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-webflux-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-webflux-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-webflux-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-webmvc-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-webmvc-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-webmvc-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-websocket-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-websocket-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/spring-websocket-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/.idea/php.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/demo1/BaseballCoach.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/demo1/BeanScopeDemoApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/demo1/Coach.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/demo1/CricketCoach.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/demo1/FortuneService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/demo1/HappyFortuneService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/demo1/MyApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/demo1/SetterDemoApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/demo1/SpringHelloApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/demo1/TrackCoach.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/demo1/applicationContext.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/demo1/beanScope-applicationContext.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/demo1/sport.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-aop-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-aop-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-aop-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-aspects-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-aspects-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-aspects-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-beans-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-beans-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-beans-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-context-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-context-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-context-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-context-indexer-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-context-indexer-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-context-indexer-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-context-support-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-context-support-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-context-support-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-core-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-core-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-core-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-expression-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-expression-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-expression-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-instrument-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-instrument-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-instrument-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-jcl-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-jcl-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-jcl-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-jdbc-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-jdbc-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-jdbc-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-jms-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-jms-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-jms-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-messaging-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-messaging-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-messaging-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-orm-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-orm-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-orm-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-oxm-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-oxm-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-oxm-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-test-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-test-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-test-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-tx-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-tx-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-tx-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-web-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-web-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-web-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-webflux-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-webflux-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-webflux-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-webmvc-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-webmvc-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-webmvc-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-websocket-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-websocket-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-websocket-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/.idea/php.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-aop-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-aop-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-aop-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-aspects-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-aspects-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-aspects-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-beans-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-beans-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-beans-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-context-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-context-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-context-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-context-indexer-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-context-indexer-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-context-indexer-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-context-support-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-context-support-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-context-support-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-core-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-core-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-core-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-expression-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-expression-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-expression-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-instrument-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-instrument-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-instrument-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-jcl-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-jcl-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-jcl-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-jdbc-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-jdbc-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-jdbc-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-jms-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-jms-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-jms-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-messaging-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-messaging-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-messaging-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-orm-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-orm-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-orm-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-oxm-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-oxm-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-oxm-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-test-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-test-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-test-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-tx-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-tx-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-tx-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-web-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-web-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-web-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-webflux-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-webflux-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-webflux-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-webmvc-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-webmvc-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-webmvc-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-websocket-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-websocket-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-websocket-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/.idea/php.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-aop-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-aop-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-aop-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-aspects-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-aspects-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-aspects-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-beans-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-beans-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-beans-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-context-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-context-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-context-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-context-indexer-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-context-indexer-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-context-indexer-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-context-support-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-context-support-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-context-support-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-core-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-core-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-core-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-expression-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-expression-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-expression-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-instrument-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-instrument-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-instrument-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-jcl-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-jcl-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-jcl-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-jdbc-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-jdbc-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-jdbc-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-jms-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-jms-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-jms-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-messaging-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-messaging-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-messaging-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-orm-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-orm-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-orm-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-oxm-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-oxm-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-oxm-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-test-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-test-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-test-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-tx-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-tx-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-tx-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-web-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-web-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-web-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-webflux-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-webflux-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-webflux-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-webmvc-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-webmvc-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-webmvc-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-websocket-5.0.2.RELEASE-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-websocket-5.0.2.RELEASE-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/lib/spring-websocket-5.0.2.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/demo1/applicationContext.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/out/production/JAVA_SPRING_FRAMEWORK_project/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA_SPRING_FRAMEWORK_project/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="db6ab046-cd98-4bb6-8468-f8bf6d695aff" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="ComposerSettings">
     <execution />
@@ -351,6 +35,9 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
   <component name="ProjectId" id="2LP4EY5Bk5V0g3d1cyo98ZC6r4F" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -359,28 +46,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Workspace/JAVA_SPRING_FRAMEWORK_project&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "corretto-17",
+    "last_opened_file_path": "D:/WORKSPACE/JAVA_SPRING_FRAMEWORK_project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Workspace\JAVA_SPRING_FRAMEWORK_project\Spring Boot (demo 8)" />
@@ -405,6 +92,7 @@
       <updated>1675759279869</updated>
       <workItem from="1675759283234" duration="11000" />
       <workItem from="1675858689927" duration="688000" />
+      <workItem from="1676754644242" duration="331000" />
     </task>
     <servers />
   </component>

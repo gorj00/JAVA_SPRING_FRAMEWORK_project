@@ -2,6 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+<<<<<<< HEAD
     <mapping directory="$PROJECT_DIR$/Spring Boot (demo 8)/demo10_SpringBoot_REST" vcs="Git" />
+=======
+>>>>>>> 474f53a60d0f9d4bc08682fcc93c25903ac5923d
   </component>
 </project>

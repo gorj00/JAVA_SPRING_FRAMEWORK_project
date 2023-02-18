@@ -4,18 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="db6ab046-cd98-4bb6-8468-f8bf6d695aff" name="Changes" comment="" />
+=======
+    <list default="true" id="db6ab046-cd98-4bb6-8468-f8bf6d695aff" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring Boot (demo 8)/demo9_SpringBoot_DevTools/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring Boot (demo 8)/demo9_SpringBoot_DevTools/pom.xml" afterDir="false" />
+    </list>
+>>>>>>> 474f53a60d0f9d4bc08682fcc93c25903ac5923d
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
   <component name="ComposerSettings">
     <execution />
   </component>
+=======
+>>>>>>> 474f53a60d0f9d4bc08682fcc93c25903ac5923d
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -35,11 +47,16 @@
       </MavenImportingSettings>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2LP4EY5Bk5V0g3d1cyo98ZC6r4F" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+=======
+  <component name="ProjectId" id="2LP4EY5Bk5V0g3d1cyo98ZC6r4F" />
+  <component name="ProjectLevelVcsManager">
+>>>>>>> 474f53a60d0f9d4bc08682fcc93c25903ac5923d
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -56,7 +73,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "corretto-17",
+<<<<<<< HEAD
     "last_opened_file_path": "D:/WORKSPACE/JAVA_SPRING_FRAMEWORK_project",
+=======
+    "last_opened_file_path": "C:/Workspace/JAVA_SPRING_FRAMEWORK_project",
+>>>>>>> 474f53a60d0f9d4bc08682fcc93c25903ac5923d
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -92,7 +113,10 @@
       <updated>1675759279869</updated>
       <workItem from="1675759283234" duration="11000" />
       <workItem from="1675858689927" duration="688000" />
+<<<<<<< HEAD
       <workItem from="1676754644242" duration="331000" />
+=======
+>>>>>>> 474f53a60d0f9d4bc08682fcc93c25903ac5923d
     </task>
     <servers />
   </component>

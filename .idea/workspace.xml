@@ -39,6 +39,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
@@ -59,6 +60,32 @@
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+=======
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "corretto-17",
+<<<<<<< HEAD
+    "last_opened_file_path": "D:/WORKSPACE/JAVA_SPRING_FRAMEWORK_project",
+=======
+    "last_opened_file_path": "C:/Workspace/JAVA_SPRING_FRAMEWORK_project",
+>>>>>>> 474f53a60d0f9d4bc08682fcc93c25903ac5923d
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+>>>>>>> d55ba4eece3a891109da54e00b7e882f737242d5
   }
 }</component>
   <component name="RecentsManager">
@@ -85,9 +112,16 @@
       <updated>1675759279869</updated>
       <workItem from="1675759283234" duration="11000" />
       <workItem from="1675858689927" duration="688000" />
+<<<<<<< HEAD
       <workItem from="1676549486343" duration="38000" />
       <workItem from="1676556227446" duration="33000" />
       <workItem from="1676556266728" duration="266000" />
+=======
+<<<<<<< HEAD
+      <workItem from="1676754644242" duration="331000" />
+=======
+>>>>>>> 474f53a60d0f9d4bc08682fcc93c25903ac5923d
+>>>>>>> d55ba4eece3a891109da54e00b7e882f737242d5
     </task>
     <servers />
   </component>

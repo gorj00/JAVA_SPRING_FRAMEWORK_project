@@ -3,6 +3,7 @@ package dev.gorj00.demo_rest.service;
 import dev.gorj00.demo_rest.dao.EmployeeDAO;
 import dev.gorj00.demo_rest.entity.Employee;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
@@ -13,7 +14,9 @@ public class EmployeeServiceImpl implements EmployeeService {
     private EmployeeDAO employeeDAO;
 
     @Autowired
-    public EmployeeServiceImpl(EmployeeDAO employeeDAO) {
+    // cannot autowire if there two or more DAO implementations, must be specified with qualifier
+    // public EmployeeServiceImpl(EmployeeDAO employeeDAO) {
+    public EmployeeServiceImpl(@Qualifier("employeeDAOJpaImpl") EmployeeDAO employeeDAO) {
         this.employeeDAO = employeeDAO;
     }
 

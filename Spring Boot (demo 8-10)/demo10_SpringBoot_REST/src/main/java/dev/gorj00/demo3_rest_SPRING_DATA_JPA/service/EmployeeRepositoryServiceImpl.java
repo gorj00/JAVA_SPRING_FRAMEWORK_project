@@ -1,4 +1,4 @@
-package dev.gorj00.demo3_rest_SPRING_DATS_JPA.service;
+package dev.gorj00.demo3_rest_SPRING_DATA_JPA.service;
 
 import dev.gorj00.demo_rest_ORIGINAL.dao.EmployeeRepository;
 import dev.gorj00.demo_rest_ORIGINAL.entity.Employee;

@@ -1,4 +1,4 @@
-package dev.gorj00.demo3_rest_SPRING_DATS_JPA.entity;
+package dev.gorj00.demo3_rest_SPRING_DATA_JPA.entity;
 
 import javax.persistence.*;
 

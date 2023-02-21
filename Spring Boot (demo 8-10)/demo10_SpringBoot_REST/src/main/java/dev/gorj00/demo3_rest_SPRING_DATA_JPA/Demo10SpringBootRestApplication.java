@@ -1,4 +1,4 @@
-package dev.gorj00.demo3_rest_SPRING_DATS_JPA;
+package dev.gorj00.demo3_rest_SPRING_DATA_JPA;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

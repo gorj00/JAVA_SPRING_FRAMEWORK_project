@@ -1,7 +1,8 @@
-package dev.gorj00.demo_rest.service;
+package dev.gorj00.demo2_rest_STANDARD_JPA.demo_rest.service;
 
 import dev.gorj00.demo_rest.dao.EmployeeDAO;
 import dev.gorj00.demo_rest.entity.Employee;
+import dev.gorj00.demo_rest.service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Service;
@@ -15,7 +16,8 @@ public class EmployeeServiceImpl implements EmployeeService {
 
     @Autowired
     // cannot autowire if there two or more DAO implementations, must be specified with qualifier
-    public EmployeeServiceImpl(@Qualifier("employeeDAOJpaImpl") EmployeeDAO employeeDAO) {
+    // public EmployeeServiceImpl(@Qualifier("employeeDAOJpaImpl") EmployeeDAO employeeDAO) { // if there are more than one
+    public EmployeeServiceImpl(EmployeeDAO employeeDAO) {
         this.employeeDAO = employeeDAO;
     }
 

@@ -1,0 +1,8 @@
+package dev.gorj00.demo3_rest_SPRING_DATS_JPA.dao;
+
+import dev.gorj00.demo_rest_ORIGINAL.entity.Employee;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface EmployeeRepository extends JpaRepository<Employee, Integer> {
+    // Alternative to writing DAO and DAOImpl code, this handles it and provides crud
+}

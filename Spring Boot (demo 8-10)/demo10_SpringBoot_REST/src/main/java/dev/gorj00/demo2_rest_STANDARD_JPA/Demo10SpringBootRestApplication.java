@@ -1,4 +1,4 @@
-package dev.gorj00.demo_rest;
+package dev.gorj00.demo2_rest_STANDARD_JPA;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

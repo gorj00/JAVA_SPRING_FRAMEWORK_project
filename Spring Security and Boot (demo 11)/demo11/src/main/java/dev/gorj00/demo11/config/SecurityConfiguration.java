@@ -21,21 +21,20 @@ public class SecurityConfiguration {
         // PURPOSES ONLY !
     }
 
-
     @Bean
     public InMemoryUserDetailsManager userDetailsService() {
-        User.UserBuilder users = User.withDefaultPasswordEncoder();
-        UserDetails user1 = users
-                .username("john")
-                .password("pass")
-                .roles("USER")
-                .build();
-        UserDetails user2 = users
-                .username("mary")
-                .password("pass")
-                .roles("ADMIN")
-                .build();
-        return new InMemoryUserDetailsManager(user1, user2);
+        UserDetails user = User.builder()
+            .username("user")
+            .password(getPasswordEncoder().encode("password"))
+            .roles("USER")
+            .build();
+
+        UserDetails admin = User.builder()
+            .username("user")
+            .password(getPasswordEncoder().encode("password"))
+            .roles("USER", "ADMIN")
+            .build();
+        return new InMemoryUserDetailsManager(user, admin);
     }
 
     @Bean
